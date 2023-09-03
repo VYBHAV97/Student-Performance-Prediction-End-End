@@ -24,7 +24,7 @@ def get_requirements(file_path:str) -> list[str]:
 setup(
     name='MLProject',
     version='0.0.1',
-    author='Krish',
+    author='Vybhav',
     author_email='vybhav000@gmail.com',
     ## find_packages will look for the file name __init__.py in the current folder and considers that as a package
     packages=find_packages(),
