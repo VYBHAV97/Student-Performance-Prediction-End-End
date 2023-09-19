@@ -1,4 +1,4 @@
-# Predicting-Student-Performance-Using-Machine-Learning
+# Student-Performance-Prediction-End-End
 
 This project aims to predict student performance based on various factors such as gender, ethnicity, parental level of education, lunch type, test preparation course, and exam scores. The machine learning model trained on a dataset of student information can provide insights into predicting a student's performance in mathematics.
 
@@ -11,9 +11,7 @@ This project aims to predict student performance based on various factors such a
 - [Model Training](#model-training)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Project Structure](#project-structure)
-- [Author](#author)
 
 ## Introduction
 
@@ -26,8 +24,8 @@ In today's educational landscape, understanding the factors that contribute to a
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/skprasad117/Predicting-Student-Performance-Using-Machine-Learning.git`
-2. Navigate to the project directory: `cd Predicting-Student-Performance-Using-Machine-Learning`
+1. Clone the repository: `git clone https://github.com/VYBHAV97/Student-Performance-Prediction-End-End.git`
+2. Navigate to the project directory: `cd Student-Performance-Prediction-End-End`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
@@ -51,10 +49,6 @@ The trained model achieved an accuracy of 85% in predicting student performance 
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Project Structure
 
@@ -82,10 +76,6 @@ The project has the following structure:
   - `css`: This directory contains CSS files for styling the web application.
 - `templates`: This directory contains HTML templates used in the web application.
 
-## Author
-Sanjay Kumar Prasad, You can also visit my GitHub profile: @skprasad117
-
-Feel free to reach out with any questions or feedback regarding the project.
 
 
 
